@@ -1,6 +1,6 @@
 # Gas_Classification_100GB
 
-## Gas Classification with Sensor Data
+## Gas Detection for Electronic Nose Applications
 
 ### Project Overview
 
